@@ -1,2 +1,2 @@
-## html-code-refactor is where I code for Horiseon Marketing Agency to allow a greater user accessibility. I did this by updating the html and css to meet the current accessibility standards, targeting most of the alt attributes and logical structure. I have made the heading sizes to different sizes for a cleaner and better useability.
+### html-code-refactor is where I code for Horiseon Marketing Agency to allow a greater user accessibility. I did this by updating the html and css to meet the current accessibility standards, targeting most of the alt attributes and logical structure. I have made the heading sizes to different sizes for a cleaner and better useability.
 ### website url: (https://parwiz-haqbien.github.io/html-code-refactor/)
